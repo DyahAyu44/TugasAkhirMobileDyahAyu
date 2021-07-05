@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'supir.dart';
 
+
 //class entryform dari supir
 class EntryForm extends StatefulWidget {
   final Supir supir;
